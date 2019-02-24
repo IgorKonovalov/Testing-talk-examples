@@ -12,6 +12,8 @@ module.exports = {
     eqeqeq: ['error', 'always'],
   },
   env: {
-    "es6": true
-  }
+    "es6": true,
+    "node": true,
+    "jest": true
+  },
 };
