@@ -5,5 +5,10 @@ add eslint:
 
 ```
 npm i eslint eslint-plugin-prettier eslint-config-prettier prettier -D
+```
 
+add jest 
+
+```
+npm i jest -D
 ```
