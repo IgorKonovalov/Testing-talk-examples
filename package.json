@@ -1,0 +1,28 @@
+{
+  "name": "testing-talk-examples",
+  "version": "1.0.0",
+  "description": "matherials for a little students workshop",
+  "main": "src/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.14.1",
+    "eslint-config-prettier": "^4.0.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "prettier": "^1.16.4"
+  },
+  "scripts": {
+    "test": "test",
+    "lint": "eslint src",
+    "lint:fix": "eslint src --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorKonovalov/Testing-talk-examples.git"
+  },
+  "author": "Igor Konovalov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorKonovalov/Testing-talk-examples/issues"
+  },
+  "homepage": "https://github.com/IgorKonovalov/Testing-talk-examples#readme"
+}
