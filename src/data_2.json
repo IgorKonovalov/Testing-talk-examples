@@ -1,0 +1,15 @@
+{
+  "items": [
+    {
+      "name": "Javascript: the good parts",
+      "type": "book",
+      "quantity": 5, 
+      "price": 40
+    },
+    {
+      "name": "bookshelf",
+      "type": "furniture",
+      "price": 900
+    }
+  ]
+}
